@@ -17,8 +17,8 @@
 - Note vim config  
 
 ```
-      $ whereis ctags  
+  $ whereis ctags  
       
-      //.vimrc
-      let Tlist_Ctags_Cmd="/usr/bin/ctags"
+  //.vimrc
+  let Tlist_Ctags_Cmd="/usr/bin/ctags"
 ```
