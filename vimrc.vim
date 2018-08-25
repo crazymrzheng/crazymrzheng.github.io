@@ -172,17 +172,18 @@ set tm=500
  " TagList :Tlist
  "--------------------------------------------------------------------------------
  let Tlist_Show_One_File=1
- let Tlist_Exit_OnlyWindow = 1
+ let Tlist_Exit_OnlyWindow=1
  let Tlist_Use_Right_Window=1
+ let Tlist_WinWidth=50        "set taglist width
+ let Tlist_Ctags_Cmd="/usr/bin/ctags"
  let g:Tlist_Inc_Winwidth = 0
  let g:Tlist_Show_One_File = 0
  let g:Tlist_File_Fold_Auto_Close = 1
- "let g:Tlist_Auto_Open = 1
- "let g:Tlist_Exit_OnlyWindow = 1
  let g:Tlist_Sort_Type = "name"
  let g:Tlist_Show_Menu = 1
  let g:Tlist_Use_SingleClick = 1
- let Tlist_Ctags_Cmd="/usr/local/bin/ctags"
+ "let g:Tlist_Auto_Open = 1
+ 
  "--------------------------------------------------------------------------------
  " netrw 文件浏览器 :e <PATH>
  "--------------------------------------------------------------------------------
