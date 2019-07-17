@@ -29,7 +29,7 @@ Rafael Reif, president of the Massachusetts Institute of Technology, wrote in an
     *shut sb. out of sth.*
 * **turn off**  
     * to make someone feel bored or no longer interested in something  
-* **rival**
+* **rival**  
     * *noun.* a person, team, or business that competes with another  
     * *adjective.* used about a person or group that competes against someone or something else.
     * *verb.* to be as good as someone or something else.
@@ -66,9 +66,9 @@ Rafael Reif, president of the Massachusetts Institute of Technology, wrote in an
 * **on edge**  
     * nervous and unable to relax because you are worried  
     *The events of the past few days had left her feeling tense and on edge.*  
-* **ethnicity**  
+* **ethnicity** [eθ'nɪsətɪ]
     * *noun.* the fact that someone belongs to a particular ethnic group  
-* **ethnic**    
+* **ethnic** ['eθnɪk]
     * *noun.* someone who belongs to an ethnic group that lives somewhere where most people are from a different race or country  
     * *adjective.* relating to a group of people who have the same culture and traditions  
     *The country's population consists of three main ethnic groups.*  
