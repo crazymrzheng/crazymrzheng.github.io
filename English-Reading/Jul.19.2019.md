@@ -18,7 +18,7 @@
 * **mount**  
   * *verb.* to fix something firmly in a particular place or position  
 * **ramification**  
-  *Original* : The **ramifications** go beyond the potentially **dire** consequences for romance.
+  * *Original* : The **ramifications** go beyond the potentially **dire** consequences for romance.
   * *noun.* a complicated or unexpected way in which a decision, process, or event affects other things  
 * **dire**   
   * *adjective.* very severe or serious  
