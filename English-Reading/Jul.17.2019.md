@@ -15,8 +15,8 @@ But on social media, many people thought the regulations were **overkill**. "Bei
 ## Vocabulary
 * **topless**
     * a woman who is topless is not wearing clothes on the upper part of her body.  
-    *a topless dancer*
-    *I'd never go topless, not even on holiday.*
+    *a topless dancer*  
+    *I'd never go topless, not even on holiday.*  
     * used about a place where some women do not wear clothes on the uppper part of their body  
     *a topless bar/nightclub/beach*  
 * **swelter**

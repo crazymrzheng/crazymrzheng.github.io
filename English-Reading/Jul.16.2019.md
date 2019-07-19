@@ -31,10 +31,10 @@ Rafael Reif, president of the Massachusetts Institute of Technology, wrote in an
     * to make someone feel bored or no longer interested in something  
 * **rival**  
     * *noun.* a person, team, or business that competes with another  
-    * *adjective.* used about a person or group that competes against someone or something else.
-    * *verb.* to be as good as someone or something else.
+    * *adjective.* used about a person or group that competes against someone or something else.  
+    * *verb.* to be as good as someone or something else.  
 * **powerhouse**  
-    * a persone or thing that has a lot of strength or energy  
+    * a person or thing that has a lot of strength or energy  
     * something such as a country or organization that has a lot of power or influence  
     *Germany is an economic powerhouse.*  
 * **beneficiary**
