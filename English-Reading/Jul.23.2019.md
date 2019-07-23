@@ -1,7 +1,7 @@
 # A specially **strained** relationship  
 ## Vocabulary  
 * **strained**  
-  * *adjtive.* not relaxed or friendly  
+  * *adjective.* not relaxed or friendly  
   *Relations between the two countries are strained.*  
 * **strain**  
   * *noun.* pressure caused by a difficult situation  
