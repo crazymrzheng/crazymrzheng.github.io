@@ -1,7 +1,7 @@
 # Tributes flow for victims as Japan reels from deadly blaze  
 ## Vocabulary  
 * **Tribute**  
-  * something that you do, say, or build to show that you respect and admire someone(a dead person usually) or something
+  * something that you do, say, or build to show that you respect and admire someone(a dead person usually) or something  
   *They showed the programme as a tribute to the two men.*  
 * **reel**  
   * *verb.* to feel very shocked, upset, or confused  
