@@ -8,6 +8,9 @@
 * **mythology**  
   * *noun.* a collection of ancient myths, especially those of a particular country or religion  
   *Roman mythology*  
+  * *verb.* mythologize/mythologise  
+  *to change something into a myth*  
+  *Bruce Lee has been mythologised as the most double-hard big deal of all time.*  
 * **convulse**  
   * *Original* : Weibo users commented that the fun interaction between the two legendary heroes **convulsed** them with laughter with many tagging their friends to watch the video.  
   * *verb.* if you are convulsed with a strong emotion, it makes your body move in an uncontrolled way  
