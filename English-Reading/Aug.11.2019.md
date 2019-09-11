@@ -34,3 +34,6 @@
   *Brazil is going all out to protect its markets.*  
 * **premium**  
   * *adjective.* more expensive or of higher quality than other similar things  
+  * premium prices are higher than usual  
+  *People are willing to pay premium prices for quality products.*  
+  
