@@ -8,7 +8,7 @@
   * *adjective.* intended, not done by chance or by accident  
   *I'm sure the omission of my name was deliberate.*  
   * *verb.* to think about or disuss something very carefully, especially before you make an important decision  
-* **omisssion**  
+* **omission**  
   * someone or something that has not been included, either deliberately or because someone forgot  
 * **sweatshirt**  
   * a piece of clothing made of thick cotton that you wear on the upper part of your body for exercise or informal activities  
